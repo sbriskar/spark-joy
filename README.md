@@ -1235,6 +1235,13 @@ Illo's in context: https://onepagelove.com/tag/illustrations
 
 - https://www.isometriclove.com/ Cute Isometric Objects For Your Design
 - https://www.handz.design/ 3d hand gestures
+- https://characterz.design/ The biggest & diverse 3D illustrations library
+- https://illustrationz.design/ Massive 3D illustrations library include adults, kids, elders, pets
+- https://emojiz.design/ Animated 3D emojis
+- https://mockupz.design/ Free 3D mockups to showcase your designs
+- https://headz.design/ 3D heads as an alternative to Apple Memoji
+- https://animalz.design/ variety of cute 3D animals 
+- https://iconz.design/ Huge library of 3D icons
 - https://isoflat.com/ Isometric and flat graphic resources
 - https://www.shapefest.com/ 160,000+ high resolution PNG images of beautiful 3D shapes
 - https://powerpeopleplatform.com/ delicious design library of 3D avatars
