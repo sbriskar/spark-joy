@@ -1242,7 +1242,12 @@ Illo's in context: https://onepagelove.com/tag/illustrations
 - https://mockupz.design/ - 3D scenes of mockups
 - https://characterz.design/ - The biggest 3D illustration library of 3D characters for any design
 - https://iconz.design/ - 333+ 3D icons for your next project
+- https://emojiz.design/ - Animated 3D emojis
+- https://headz.design/ - 400,000+ combinations of 3D heads - Alternative to Apple memoji
+- https://animalz.design/ - Cute 3D animals with source files included
+- https://www.handz.design/ - Free 3D hands with source files included
 - https://illustrationz.design/ - 167+ Milions of combinations of 3D characters
+![image](https://user-images.githubusercontent.com/7413742/193247634-ecf5a6b6-359e-4cbc-b813-f060a5bea52d.png)
 - https://animalz.design/ - cute fully rigged 3D animals for your next project
 - https://emojiz.design/ - Animated 3D emojis
 
