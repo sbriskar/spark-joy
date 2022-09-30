@@ -1239,6 +1239,12 @@ Illo's in context: https://onepagelove.com/tag/illustrations
 - https://www.shapefest.com/ 160,000+ high resolution PNG images of beautiful 3D shapes
 - https://powerpeopleplatform.com/ delicious design library of 3D avatars
 - https://spline.design/ Easily create and publish 3D web experiences. Build and iterate fast with production-ready results.
+- https://mockupz.design/ - 3D scenes of mockups
+- https://characterz.design/ - The biggest 3D illustration library of 3D characters for any design
+- https://iconz.design/ - 333+ 3D icons for your next project
+- https://illustrationz.design/ - 167+ Milions of combinations of 3D characters
+- https://animalz.design/ - cute fully rigged 3D animals for your next project
+- https://emojiz.design/ - Animated 3D emojis
 
 Learn 3d illo in blender https://polygonrunway.com/
 
